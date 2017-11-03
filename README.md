@@ -135,4 +135,12 @@ Bootstrap 是全球最受欢迎的前端组件库，用于开发响应式布局�
 9.消息 框 大点用rows="5"
 <textarea rows="5" type="text" class="form-control bg-dark text-muted">信息</textarea>
 
-10.用BS写自己个人简历Demo练习 
+
+10.d-block 显示   d-none 消失   
+   btn-block 沾满整行
+
+11.bg-颜色  都可以给透明度opacity 
+
+12.导航中靠右边 是ml-auto     
+## 小项目练习
+13.用BS写自己个人简历Demo练习 
