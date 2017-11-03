@@ -1,0 +1,7 @@
+*{margin: 0;padding: 0;}
+.item-hl1{height: 155px;}
+.item-hl2{height: 77px;}
+.item-hl3{height: 125px;}
+.item-hl3>a{text-decoration: none;}
+.tog{cursor: pointer;}
+.footer{height: 150px;}
