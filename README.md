@@ -126,4 +126,13 @@ Bootstrap 是全球最受欢迎的前端组件库，用于开发响应式布局�
 5.BS->栅格 row-col  & 弹性盒子 d-flex
 
 6. BS->轮播图 提示框 模态框
-            
+  7.no-gutters
+在BS中不想让她们有间隙的话用它例子：
+
+8.img-fluid 
+图片无留白<img class="img-fluid" src="" alt="">
+
+9.消息 框 大点用rows="5"
+<textarea rows="5" type="text" class="form-control bg-dark text-muted">信息</textarea>
+
+10.用BS写自己个人简历Demo练习 
